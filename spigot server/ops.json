@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "uuid": "d3a47dc2-a82b-3dae-85f5-6713a08edc34",
+    "name": "Johnnycake",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "781c46c6-90a7-341f-8cb9-5124b2cf7a18",
+    "name": "Map_Designer",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
